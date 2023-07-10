@@ -25,13 +25,13 @@ let track_list = [
     name: "Sprinter",
     artist: "Dave, Central Cee",
     image: "https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60",
-    path: "songs/Sprinter.mp3"
+    path: ""
   },
   {
     name: "vampire",
     artist: "Olivia Rodrigo",
     image: "https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525",
-    path: "songs/vampire.mp3"
+    path: "blob:https://spotifydown.com/e92704d5-3203-4b5f-b023-0e84d64f6682.mp3"
   },
   {
     name: "Shipping Lanes",
